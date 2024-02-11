@@ -1,6 +1,9 @@
-# MyApp
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.3.
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/WeatherWave/blob/6702012e112101f83b8ab217d2e940083b4b5f22/weatherwave.png" alt="Project Banner">
+  </br>
+</div>
+</br>
 
 ## Development server
 
