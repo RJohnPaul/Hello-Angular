@@ -2,7 +2,7 @@
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/Hello-Angular/blob/87afc8ef6cb7dc43e1af3d1e91caa84958d24dd4/helloangular.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/Hello-Angular/blob/a40baae55d014915226599a243b4a2a486cb664c/2560x1600%20(1).png" alt="Project Banner">
   </br>
 </div>
 </br>
