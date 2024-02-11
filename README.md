@@ -2,7 +2,7 @@
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/WeatherWave/blob/6702012e112101f83b8ab217d2e940083b4b5f22/weatherwave.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/Hello-Angular/blob/87afc8ef6cb7dc43e1af3d1e91caa84958d24dd4/helloangular.png" alt="Project Banner">
   </br>
 </div>
 </br>
